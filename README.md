@@ -39,3 +39,16 @@ npm run lint
 #### 2. D3 气泡图
 ![气泡图](气泡图.png)
 
+#### 3. 城市地图
+svg / geojson 下载地址: http://datav.aliyun.com/tools/atlas
+![城市地图](局部地图.png)
+
+#### 4. 图例饼状图
+![图例饼状图](图例饼状图.png)
+
+#### 5. 圆柱状图
+![圆柱状图](圆柱状图.png)
+
+
+
+
