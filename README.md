@@ -41,7 +41,7 @@ npm run build
 ![气泡图](气泡图.png)
 
 #### 3. D3 城市地图
-svg / geojson 下载地址: http://datav.aliyun.com/tools/atlas
+svg / geojson 各城市地图下载地址: http://datav.aliyun.com/tools/atlas
 ![城市地图](局部地图.png)
 
 #### 4. D3 图例饼状图
