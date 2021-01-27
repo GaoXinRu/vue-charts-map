@@ -1,5 +1,7 @@
 # vuechartsmap
 
+## VUE + Echarts + D3 绘制图表
+
 ## Project setup
 ```
 npm install
@@ -30,4 +32,7 @@ npm run lint
 主要内容 D3 绘制 图表
 
 ### 项目中图表列举
+
+#### 1. 词云图
+![词云图](词云图.png)
 
